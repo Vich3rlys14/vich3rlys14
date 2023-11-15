@@ -2,15 +2,19 @@
 
 <!--
 **Vich3rlys14/vich3rlys14** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hi I'm Vic'herlys , I'm a web developper who likes 
 
-Here are some ideas to get you started:
+- 🔭 I’m currently working as Freelance Web developper. 
+- 🌱 I’m currently learning Rust
+- 👯 I’m looking to collaborate on any interesting projects project 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 📫 How to reach me: [vich3rlys@gmail.com](mailto:vich3rlys@gmail.com)
+
 -->
+Hi I'm Vic'herlys , I'm a web developper who likes programing games in my free timee.
+
+- 🔭 I’m currently working as Freelance Web developper. 
+- 🌱 I’m currently learning Rust
+- 👯 I’m looking to collaborate on any interesting projects project 
+
+- 📫 How to reach me: [vich3rlys@gmail.com](mailto:vich3rlys@gmail.com)
