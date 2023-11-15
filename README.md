@@ -11,7 +11,7 @@ Hi I'm Vic'herlys , I'm a web developper who likes
 - 📫 How to reach me: [vich3rlys@gmail.com](mailto:vich3rlys@gmail.com)
 
 -->
-Hi I'm Vic'herlys , I'm a web developper who likes programing games in my free time.
+Hi I'm Vic'herlys , I'm a web developper who likes programing video games in my free time.
 
 - 🔭 I’m currently working as Freelance Web Developper. 
 - 🌱 I’m currently learning Rust
