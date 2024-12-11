@@ -32,7 +32,7 @@ I know my GitHub looks like it's been hibernating 🐻, but fear not! I'll be ba
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/vicherlys/)
 - 📫 [Email](mailto:vich3rlys@gmail.com)
-- 🌐 [GitLab](https://gitlab.com/your-profile)
+- 🌐 [GitLab](https://gitlab.com/vich3rlys/)
 - 💻 [Stack Overflow](https://stackoverflow.com/users/your-profile)
 
 Feel free to explore, contribute, or reach out! 🚀
